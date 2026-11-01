@@ -38,3 +38,4 @@ Just make the Group or Subgraph normal first and the panel will function.
 ```
 
 Feel free to provide feedback, but I am unlikely to actively maintain unless there is a bug that is urgent to patch.
+Any issue opened without providing steps to reproduce will be more likely to be ignored.
